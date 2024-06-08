@@ -8,13 +8,13 @@ We validate the effectiveness of CycliCoder across seven programming languages i
 
 ## Dataset
 
-- The correct and faulty data used in Stage I is in [pairwise data]("https://github.com/yujiachen99/CycliCoder/blob/main/datas/pairwise_data.json").
-- The training data of Analyst model in Stage II is  in [scoring data]("https://github.com/yujiachen99/CycliCoder/blob/main/datas/scoring_data.json").
-- The generated new data in Stage III is in [new data]("https://github.com/yujiachen99/CycliCoder/blob/main/datas/new_data.json").
+- The correct and faulty data used in Stage I is in [pairwise data](https://github.com/yujiachen99/CycliCoder/blob/main/datas/pairwise_data.json).
+- The training data of Analyst model in Stage II is  in [scoring data](https://github.com/yujiachen99/CycliCoder/blob/main/datas/scoring_data.json).
+- The generated new data in Stage III is in [new data](https://github.com/yujiachen99/CycliCoder/blob/main/datas/new_data.json).
 
 ## Model
 
-We use the [LLaMA-Factory library]("https://github.com/hiyouga/LLaMA-Factory") for trainging and inference process. 
+We use the [LLaMA-Factory library](https://github.com/hiyouga/LLaMA-Factory) for trainging and inference process. 
 
 ####  *We release partial data currently. We will release all code, data, and models (i.e. CycliCoder-7B ) at the time of publication.*
 
